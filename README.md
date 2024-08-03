@@ -28,8 +28,7 @@ Commands<br>
 
 1. **Clone the repository**: `git clone https://github.com/yourusername/discord-stock-tracker-bot.git`
 2. **Create and activate a virtual environment**: `python -m venv venv` and `source venv/bin/activate`
-3. **Install the required packages**: `pip install -r requirements.txt`
-4. **Create a `.env` file**: `touch .env` and add your bot token and channel ID
-5. **Run the bot**: `python stock_bot.py`
+3. **Create a `.env` file**: `touch .env` and add your bot token and channel ID
+4. **Run the bot**: `python stock_bot.py`
 
 By following this guide, you should be able to set up and run your Discord stock tracker bot easily.
